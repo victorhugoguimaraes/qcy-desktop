@@ -1,0 +1,10 @@
+{
+  "identifier": "default",
+  "description": "Janela principal",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:default"
+  ]
+}
